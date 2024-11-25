@@ -1,3 +1,9 @@
+---
+layout: image-right
+image: /dirty-btc.png
+---
+
+
 # "Špinavé coiny"
 
 - Nič také neexistuje, blockchainu je to jedno

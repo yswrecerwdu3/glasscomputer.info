@@ -1,3 +1,9 @@
+---
+layout: image-right
+image: /trezor.png
+---
+
+
 # HW Wallet
 
 - Absolútny must have

@@ -1,3 +1,8 @@
+---
+layout: image-left
+image: /clerk-doing-kyc.png
+---
+
 # Ako je to s tým KYC?
 
 - KYC je záznam na burze

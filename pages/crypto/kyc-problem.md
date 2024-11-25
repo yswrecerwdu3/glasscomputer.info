@@ -1,3 +1,8 @@
+---
+layout: image-right
+image: /gangsters.png
+---
+
 # Mám problém ak som urobil KYC?
 
 - Áno aj nie

@@ -1,3 +1,8 @@
+---
+layout: image-right
+image: /xmr-privacy.png
+---
+
 # Monero
 
 - Najznámejší privacy coin
