@@ -139,13 +139,13 @@ hide: false
 ---
 transition: fade-out
 src: ./privacy/priklady-2.md
-hide: true
+hide: false
 ---
 
 ---
 transition: fade-out
 src: ./privacy/priklady-3.md
-hide: false
+hide: true
 ---
 
 ---
