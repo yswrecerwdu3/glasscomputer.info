@@ -54,11 +54,11 @@
     <p>Rovnako ak je za vami kamera</p>
   </div>
   <div class="card">
-    <img src="/more/charge.png" alt="Image 5">
-    <p>Pozor odkiaľ si nabíjate zariadenie</p>
-  </div>
-  <div class="card">
     <img src="/more/usb-condom.avif" alt="Image 6">
     <p>Na verejných zásuvkách môžete využiť USB kondom</p>
+  </div>
+  <div class="card">
+    <img src="/more/barcode.jpg" alt="Image 5">
+    <p>Pozor na QR/barocode kt. skenujete</p>
   </div>
 </div>

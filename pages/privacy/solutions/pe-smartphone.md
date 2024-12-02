@@ -9,6 +9,7 @@
 - Storage permision managment
 - Nastavovanie prístupu na internet per app
 - Možnosť zakázania mikrofónu, či foťáku
+- Nefunguje Googlepay a niektoré bankové appky
 
 ## Ďaľšie
 - [CalyxOS](https://calyxos.org/)

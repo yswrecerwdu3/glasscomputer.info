@@ -8,7 +8,10 @@
 
 😻 Máte plne pod kontrolou
 
+🧺 Vzniká potreba prebratia zodpovednosti za zálohovanie 
+
 ## Populárne služby
 
 - https://keepass.info/
 - https://keepassxc.org 
+- Windows, MacOS, Linux, Android
