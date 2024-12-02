@@ -102,6 +102,12 @@ hide: false
 
 ---
 transition: fade-out
+src: ./security/password-manager-4-local.md
+hide: false
+---
+
+---
+transition: fade-out
 src: ./security/2fa-1.md
 hide: false
 ---
