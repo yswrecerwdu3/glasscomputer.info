@@ -13,5 +13,5 @@
 
 ## Online privacy-friendly options
 Ak nechcete bežať AI u seba na počítači tak namiesto ChatGPT skúste napríklad tieto
-- (VeniceAI)[https://venice.ai/]
-- (DuckAI)[https://duck.ai]
+- [VeniceAI](https://venice.ai/)
+- [DuckAI](https://duck.ai)
