@@ -6,6 +6,6 @@
 
 ## Riešenia
 
-- Shielded adresy
-- ZK siete 
+- Shielded adresy, [Railgun](https://www.railgun.org/)
+- ZK siete (zatiaľ iba sen)
 - Cross L1 swaps
