@@ -15,3 +15,4 @@
 Ak nechcete bežať AI u seba na počítači tak namiesto ChatGPT skúste napríklad tieto
 - [VeniceAI](https://venice.ai/)
 - [DuckAI](https://duck.ai)
+- [NanoGPT](https://nano-gpt.com/)
