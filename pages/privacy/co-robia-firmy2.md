@@ -5,7 +5,7 @@ image: /data.png
 
 # Čo s tým tie firmy robia
 
-- Ak je služba zadarmo (viac ako na pár dní) tak vy ste produkt
+- Treba sa zamyslieť nad biznis modelom služby a či vy nie ste produkt
 
 - Firmy chcú vaše dáta a pozornosť
 
